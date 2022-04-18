@@ -1,0 +1,12 @@
+D:\SEYIT\C#\RssExample\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\SEYIT\C#\RssExample\Entities\bin\Debug\net6.0\Entities.dll
+D:\SEYIT\C#\RssExample\Entities\bin\Debug\net6.0\Entities.pdb
+D:\SEYIT\C#\RssExample\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\SEYIT\C#\RssExample\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEYIT\C#\RssExample\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\SEYIT\C#\RssExample\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\SEYIT\C#\RssExample\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\SEYIT\C#\RssExample\Entities\obj\Debug\net6.0\Entities.dll
+D:\SEYIT\C#\RssExample\Entities\obj\Debug\net6.0\refint\Entities.dll
+D:\SEYIT\C#\RssExample\Entities\obj\Debug\net6.0\Entities.pdb
+D:\SEYIT\C#\RssExample\Entities\obj\Debug\net6.0\ref\Entities.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W1W2FLLnihTRYEw4cdkOh1aEydwSSbGjzPg+eku2DkNQCx4nMVP+ly3/WHftREGwikC7wEPyYbza6J8Uzh+xcQ==",
+  "success": true,
+  "projectFilePath": "D:\\SEYIT\\C#\\RssExample\\ConsoleUI\\ConsoleUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Seyit\\.nuget\\packages\\system.servicemodel.syndication\\6.0.0\\system.servicemodel.syndication.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,291 @@
+﻿++Solution 'RssExample' ‎(6 of 6 projects)
+i:{00000000-0000-0000-0000-000000000000}:RssExample.sln
+++WebAPI
+i:{00000000-0000-0000-0000-000000000000}:WebAPI
+++Connected Services 
+i:{940f6e2e-102e-4e7a-809d-262779103007}:>778
+++Dependencies
+i:{940f6e2e-102e-4e7a-809d-262779103007}:>777
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:>544
+i:{4b83cc04-442e-4e37-b29b-c8a15b5459ec}:>641
+i:{c6969c4c-e9d0-43e3-9d6a-fd86f347cc2c}:>473
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:>593
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:>640
+++Properties
+i:{940f6e2e-102e-4e7a-809d-262779103007}:d:\seyit\c#\rssexample\webapi\properties\
+++Controllers
+i:{940f6e2e-102e-4e7a-809d-262779103007}:d:\seyit\c#\rssexample\webapi\controllers\
+++appsettings.Development.json
+i:{940f6e2e-102e-4e7a-809d-262779103007}:d:\seyit\c#\rssexample\webapi\appsettings.development.json
+++appsettings.json
+i:{940f6e2e-102e-4e7a-809d-262779103007}:d:\seyit\c#\rssexample\webapi\appsettings.json
+++Program.cs
+i:{940f6e2e-102e-4e7a-809d-262779103007}:d:\seyit\c#\rssexample\webapi\program.cs
+i:{4b83cc04-442e-4e37-b29b-c8a15b5459ec}:d:\seyit\c#\rssexample\consoleui\program.cs
+++No service dependencies discovered
+i:{940f6e2e-102e-4e7a-809d-262779103007}:>779
+++Analyzers
+i:{940f6e2e-102e-4e7a-809d-262779103007}:analyzers
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:analyzers
+i:{4b83cc04-442e-4e37-b29b-c8a15b5459ec}:analyzers
+i:{c6969c4c-e9d0-43e3-9d6a-fd86f347cc2c}:analyzers
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:analyzers
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:analyzers
+++Frameworks
+i:{940f6e2e-102e-4e7a-809d-262779103007}:frameworks
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:frameworks
+i:{4b83cc04-442e-4e37-b29b-c8a15b5459ec}:frameworks
+i:{c6969c4c-e9d0-43e3-9d6a-fd86f347cc2c}:frameworks
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:frameworks
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:frameworks
+++Packages
+i:{940f6e2e-102e-4e7a-809d-262779103007}:packages
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:packages
+i:{4b83cc04-442e-4e37-b29b-c8a15b5459ec}:packages
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:packages
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:packages
+++Projects
+i:{940f6e2e-102e-4e7a-809d-262779103007}:projects
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:projects
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:projects
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:projects
+++launchSettings.json
+i:{940f6e2e-102e-4e7a-809d-262779103007}:d:\seyit\c#\rssexample\webapi\properties\launchsettings.json
+++AuthController.cs
+i:{940f6e2e-102e-4e7a-809d-262779103007}:d:\seyit\c#\rssexample\webapi\controllers\authcontroller.cs
+++NewsController.cs
+i:{940f6e2e-102e-4e7a-809d-262779103007}:d:\seyit\c#\rssexample\webapi\controllers\newscontroller.cs
+++UsersController.cs
+i:{940f6e2e-102e-4e7a-809d-262779103007}:d:\seyit\c#\rssexample\webapi\controllers\userscontroller.cs
+++Microsoft.AspNetCore.Analyzers
+i:{940f6e2e-102e-4e7a-809d-262779103007}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{940f6e2e-102e-4e7a-809d-262779103007}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{940f6e2e-102e-4e7a-809d-262779103007}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{940f6e2e-102e-4e7a-809d-262779103007}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{940f6e2e-102e-4e7a-809d-262779103007}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{940f6e2e-102e-4e7a-809d-262779103007}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{940f6e2e-102e-4e7a-809d-262779103007}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{4b83cc04-442e-4e37-b29b-c8a15b5459ec}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{c6969c4c-e9d0-43e3-9d6a-fd86f347cc2c}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{940f6e2e-102e-4e7a-809d-262779103007}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{4b83cc04-442e-4e37-b29b-c8a15b5459ec}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{c6969c4c-e9d0-43e3-9d6a-fd86f347cc2c}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{940f6e2e-102e-4e7a-809d-262779103007}:c:\users\seyit\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:c:\users\seyit\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:c:\users\seyit\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:c:\users\seyit\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{940f6e2e-102e-4e7a-809d-262779103007}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:c:\users\seyit\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:c:\users\seyit\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:c:\users\seyit\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{940f6e2e-102e-4e7a-809d-262779103007}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{940f6e2e-102e-4e7a-809d-262779103007}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{4b83cc04-442e-4e37-b29b-c8a15b5459ec}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{c6969c4c-e9d0-43e3-9d6a-fd86f347cc2c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{940f6e2e-102e-4e7a-809d-262779103007}:d:\seyit\c#\rssexample\webapi\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{940f6e2e-102e-4e7a-809d-262779103007}:d:\seyit\c#\rssexample\webapi\microsoft.netcore.app
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:d:\seyit\c#\rssexample\business\microsoft.netcore.app
+i:{4b83cc04-442e-4e37-b29b-c8a15b5459ec}:d:\seyit\c#\rssexample\consoleui\microsoft.netcore.app
+i:{c6969c4c-e9d0-43e3-9d6a-fd86f347cc2c}:d:\seyit\c#\rssexample\entities\microsoft.netcore.app
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\microsoft.netcore.app
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:d:\seyit\c#\rssexample\dataaccess\microsoft.netcore.app
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.4)
+i:{940f6e2e-102e-4e7a-809d-262779103007}:>849
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.4)
+i:{940f6e2e-102e-4e7a-809d-262779103007}:>848
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:>818
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.4)
+i:{940f6e2e-102e-4e7a-809d-262779103007}:>846
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:>816
+++Microsoft.EntityFrameworkCore.Tools (6.0.4)
+i:{940f6e2e-102e-4e7a-809d-262779103007}:>850
+++Swashbuckle.AspNetCore (6.2.3)
+i:{940f6e2e-102e-4e7a-809d-262779103007}:>847
+++Business
+i:{940f6e2e-102e-4e7a-809d-262779103007}:d:\seyit\c#\rssexample\business\bin\debug\net6.0\business.dll
+i:{00000000-0000-0000-0000-000000000000}:Business
+++Entities
+i:{940f6e2e-102e-4e7a-809d-262779103007}:d:\seyit\c#\rssexample\entities\bin\debug\net6.0\entities.dll
+i:{00000000-0000-0000-0000-000000000000}:Entities
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\entities\bin\debug\net6.0\entities.dll
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:d:\seyit\c#\rssexample\entities\bin\debug\net6.0\entities.dll
+++Abstracts
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:d:\seyit\c#\rssexample\business\abstracts\
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:d:\seyit\c#\rssexample\dataaccess\abstracts\
+++BusinessAspects
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:d:\seyit\c#\rssexample\business\businessaspects\
+++Concretes
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:d:\seyit\c#\rssexample\business\concretes\
+i:{c6969c4c-e9d0-43e3-9d6a-fd86f347cc2c}:d:\seyit\c#\rssexample\entities\concretes\
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:d:\seyit\c#\rssexample\dataaccess\concretes\
+++Configurations
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:d:\seyit\c#\rssexample\business\configurations\
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:d:\seyit\c#\rssexample\dataaccess\configurations\
+++IAuthService.cs
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:d:\seyit\c#\rssexample\business\abstracts\iauthservice.cs
+++INewsService.cs
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:d:\seyit\c#\rssexample\business\abstracts\inewsservice.cs
+++IUserService.cs
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:d:\seyit\c#\rssexample\business\abstracts\iuserservice.cs
+++Autofac
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:d:\seyit\c#\rssexample\business\businessaspects\autofac\
+++AuthManager.cs
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:d:\seyit\c#\rssexample\business\concretes\authmanager.cs
+++NewsManager.cs
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:d:\seyit\c#\rssexample\business\concretes\newsmanager.cs
+++UserManager.cs
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:d:\seyit\c#\rssexample\business\concretes\usermanager.cs
+++ServiceRegistrations.cs
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:d:\seyit\c#\rssexample\business\configurations\serviceregistrations.cs
+++Castle.DynamicProxy (2.2.0)
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:>789
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:>868
+++Microsoft.AspNetCore.Http (2.2.2)
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:>871
+++Microsoft.Extensions.DependencyInjection.Abstractions (6.0.0)
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:>786
+++System.ServiceModel.Syndication (6.0.0)
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:>788
+i:{4b83cc04-442e-4e37-b29b-c8a15b5459ec}:>812
+++Core
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:d:\seyit\c#\rssexample\core\core.csproj
+i:{00000000-0000-0000-0000-000000000000}:Core
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:d:\seyit\c#\rssexample\core\bin\debug\net6.0\core.dll
+++DataAccess
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:d:\seyit\c#\rssexample\dataaccess\dataaccess.csproj
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\dataaccess\
+i:{00000000-0000-0000-0000-000000000000}:DataAccess
+++SecuredOperation.cs
+i:{66d0d089-b8da-461f-89e5-df9c171919bf}:d:\seyit\c#\rssexample\business\businessaspects\autofac\securedoperation.cs
+++ConsoleUI
+i:{00000000-0000-0000-0000-000000000000}:ConsoleUI
+++DTOs
+i:{c6969c4c-e9d0-43e3-9d6a-fd86f347cc2c}:d:\seyit\c#\rssexample\entities\concretes\dtos\
+++OperationClaim.cs
+i:{c6969c4c-e9d0-43e3-9d6a-fd86f347cc2c}:d:\seyit\c#\rssexample\entities\concretes\operationclaim.cs
+++User.cs
+i:{c6969c4c-e9d0-43e3-9d6a-fd86f347cc2c}:d:\seyit\c#\rssexample\entities\concretes\user.cs
+++UserOperationClaim.cs
+i:{c6969c4c-e9d0-43e3-9d6a-fd86f347cc2c}:d:\seyit\c#\rssexample\entities\concretes\useroperationclaim.cs
+++ChangePasswordDto.cs
+i:{c6969c4c-e9d0-43e3-9d6a-fd86f347cc2c}:d:\seyit\c#\rssexample\entities\concretes\dtos\changepassworddto.cs
+++UserForLoginDto.cs
+i:{c6969c4c-e9d0-43e3-9d6a-fd86f347cc2c}:d:\seyit\c#\rssexample\entities\concretes\dtos\userforlogindto.cs
+++UserForRegisterDto.cs
+i:{c6969c4c-e9d0-43e3-9d6a-fd86f347cc2c}:d:\seyit\c#\rssexample\entities\concretes\dtos\userforregisterdto.cs
+++Extensions
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\extensions\
+++IoC
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\ioc\
+++Results
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\results\
+++Security
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\security\
+++Utilities
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\utilities\
+++EntityFramework
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\dataaccess\entityframework\
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:d:\seyit\c#\rssexample\dataaccess\concretes\entityframework\
+++IEntityRepository.cs
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\dataaccess\ientityrepository.cs
+++Claims
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\extensions\claims\
+++ServiceTool.cs
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\ioc\servicetool.cs
+++DataResult.cs
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\results\dataresult.cs
+++ErrorDataResult.cs
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\results\errordataresult.cs
+++ErrorResult.cs
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\results\errorresult.cs
+++IDataResult.cs
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\results\idataresult.cs
+++IResult.cs
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\results\iresult.cs
+++Result.cs
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\results\result.cs
+++SuccessDataResult.cs
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\results\successdataresult.cs
+++SuccessResult.cs
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\results\successresult.cs
+++Encryption
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\security\encryption\
+++Hashing
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\security\hashing\
+++JWT
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\security\jwt\
+++Interceptors
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\utilities\interceptors\
+++Microsoft.EntityFrameworkCore (6.0.4)
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:>863
+++Microsoft.Extensions.Configuration (6.0.1)
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:>867
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:>820
+++Microsoft.Extensions.Configuration.Binder (6.0.0)
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:>865
+++Microsoft.Extensions.DependencyInjection (6.0.0)
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:>866
+++System.IdentityModel.Tokens.Jwt (6.17.0)
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:>864
+++EfEntityRepositoryBase.cs
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\dataaccess\entityframework\efentityrepositorybase.cs
+++ClaimExtensions.cs
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\extensions\claims\claimextensions.cs
+++ClaimsPrincipalExtensions.cs
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\extensions\claims\claimsprincipalextensions.cs
+++SecurityKeyHelper.cs
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\security\encryption\securitykeyhelper.cs
+++SigningCredentialsHelper.cs
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\security\encryption\signingcredentialshelper.cs
+++HashingHelper.cs
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\security\hashing\hashinghelper.cs
+++AccessToken.cs
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\security\jwt\accesstoken.cs
+++ITokenHelper.cs
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\security\jwt\itokenhelper.cs
+++JwtHelper.cs
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\security\jwt\jwthelper.cs
+++TokenOptions.cs
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\security\jwt\tokenoptions.cs
+++AspectInterceptorSelector.cs
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\utilities\interceptors\aspectinterceptorselector.cs
+++MethodInterception.cs
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\utilities\interceptors\methodinterception.cs
+++MethodInterceptionBaseAttribute.cs
+i:{8b32aacb-d72b-4714-9d8f-78ddc80985f0}:d:\seyit\c#\rssexample\core\utilities\interceptors\methodinterceptionbaseattribute.cs
+++IUserDal.cs
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:d:\seyit\c#\rssexample\dataaccess\abstracts\iuserdal.cs
+++Configuration.cs
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:d:\seyit\c#\rssexample\dataaccess\configurations\configuration.cs
+++Microsoft.Extensions.Configuration.Json (6.0.0)
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:>819
+++Newtonsoft.Json (13.0.1)
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:>817
+++Contexts
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:d:\seyit\c#\rssexample\dataaccess\concretes\entityframework\contexts\
+++EfUserDal.cs
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:d:\seyit\c#\rssexample\dataaccess\concretes\entityframework\efuserdal.cs
+++RssExampleDbContext.cs
+i:{5117ea0c-3671-4195-88ca-8f5d1a1f39ad}:d:\seyit\c#\rssexample\dataaccess\concretes\entityframework\contexts\rssexampledbcontext.cs

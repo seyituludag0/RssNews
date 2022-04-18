@@ -1,0 +1,17 @@
+D:\SEYIT\C#\RssExample\ConsoleUI\bin\Debug\net6.0\ConsoleUI.exe
+D:\SEYIT\C#\RssExample\ConsoleUI\bin\Debug\net6.0\ConsoleUI.deps.json
+D:\SEYIT\C#\RssExample\ConsoleUI\bin\Debug\net6.0\ConsoleUI.runtimeconfig.json
+D:\SEYIT\C#\RssExample\ConsoleUI\bin\Debug\net6.0\ConsoleUI.dll
+D:\SEYIT\C#\RssExample\ConsoleUI\bin\Debug\net6.0\ConsoleUI.pdb
+D:\SEYIT\C#\RssExample\ConsoleUI\obj\Debug\net6.0\ConsoleUI.csproj.AssemblyReference.cache
+D:\SEYIT\C#\RssExample\ConsoleUI\obj\Debug\net6.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEYIT\C#\RssExample\ConsoleUI\obj\Debug\net6.0\ConsoleUI.AssemblyInfoInputs.cache
+D:\SEYIT\C#\RssExample\ConsoleUI\obj\Debug\net6.0\ConsoleUI.AssemblyInfo.cs
+D:\SEYIT\C#\RssExample\ConsoleUI\obj\Debug\net6.0\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\SEYIT\C#\RssExample\ConsoleUI\obj\Debug\net6.0\ConsoleUI.dll
+D:\SEYIT\C#\RssExample\ConsoleUI\obj\Debug\net6.0\refint\ConsoleUI.dll
+D:\SEYIT\C#\RssExample\ConsoleUI\obj\Debug\net6.0\ConsoleUI.pdb
+D:\SEYIT\C#\RssExample\ConsoleUI\obj\Debug\net6.0\ConsoleUI.genruntimeconfig.cache
+D:\SEYIT\C#\RssExample\ConsoleUI\obj\Debug\net6.0\ref\ConsoleUI.dll
+D:\SEYIT\C#\RssExample\ConsoleUI\bin\Debug\net6.0\System.ServiceModel.Syndication.dll
+D:\SEYIT\C#\RssExample\ConsoleUI\obj\Debug\net6.0\ConsoleUI.csproj.CopyComplete
