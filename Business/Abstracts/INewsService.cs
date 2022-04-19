@@ -10,15 +10,9 @@ namespace Business.Abstracts
     {
         List<string> MynetGetAllNewsTitle();
 
-        string MynetNewsTitleSearch(string key);
-
-        //string NewYorkTimesNewsTitleSearch(string key);
-
         List<string> NewYorkGetNews();
 
-        void GetAllNews();
-
-        List<string> GetAllFeedburnerNews();
+        List<string> GetAllNews();
         List<string> GetAllRetaildetailbe();
         List<string> GetAllAcrossNews();
     }

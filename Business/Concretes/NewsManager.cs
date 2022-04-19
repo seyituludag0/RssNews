@@ -12,6 +12,81 @@ namespace Business.Concretes
 {
     public class NewsManager : INewsService
     {
+        public List<string> GetAllAcrossNews()
+        {
+            List<string> news = new List<string>();
+            SyndicationFeed syndicationFeed = new SyndicationFeed();
+            string APIURLFeedBurner = "https://servicemodule.propertynl.com/api/export/GetRSSArticles?newsChannel=NL&ignoreSticky=true";
+            using (var reader = XmlReader.Create(APIURLFeedBurner))
+            {
+                syndicationFeed = SyndicationFeed.Load(reader);
+            }
+            foreach (SyndicationItem item in syndicationFeed.Items)
+            {
+                news.Add(item.Title.Text + " - " + item.PublishDate.ToString() + " Across Magazine");
+            }
+            return news;
+        }
+
+       
+
+        public List<string> GetAllNews()
+        {
+            List<string> news = new List<string>();
+
+            string APIURL = "https://rss.nytimes.com/services/xml/rss/nyt/World.xml";
+
+            SyndicationFeed syndicationFeed = new SyndicationFeed();
+            using (var reader = XmlReader.Create(APIURL))
+            {
+                syndicationFeed = SyndicationFeed.Load(reader);
+            }
+            foreach (SyndicationItem item in syndicationFeed.Items)
+            {
+                news.Add(item.Title.Text + " - " + item.PublishDate.ToString() + " New York Times");
+            }
+
+
+            string APIURLFeedBurner = "http://feeds.feedburner.com/retaildetailbe";
+            using (var reader = XmlReader.Create(APIURLFeedBurner))
+            {
+                syndicationFeed = SyndicationFeed.Load(reader);
+            }
+            foreach (SyndicationItem item in syndicationFeed.Items)
+            {
+                news.Add(item.Title.Text + " - " + item.PublishDate.ToString() + " Retail Detail");
+            }
+           
+            string APIURLAcross = "https://servicemodule.propertynl.com/api/export/GetRSSArticles?newsChannel=NL&ignoreSticky=true";
+            using (var reader = XmlReader.Create(APIURLAcross))
+            {
+
+                syndicationFeed = SyndicationFeed.Load(reader);
+            }
+            foreach (SyndicationItem item in syndicationFeed.Items)
+            {
+                news.Add(item.Title.Text + " - " + item.PublishDate.ToString() +" Across Magazine");
+            }
+            return news;
+        }
+
+        public List<string> GetAllRetaildetailbe()
+        {
+            List<string> news = new List<string>();
+            SyndicationFeed syndicationFeed = new SyndicationFeed();
+            string APIURLFeedBurner = "http://feeds.feedburner.com/retaildetailbe";
+            using (var reader = XmlReader.Create(APIURLFeedBurner))
+            {
+                syndicationFeed = SyndicationFeed.Load(reader);
+            }
+            foreach (SyndicationItem item in syndicationFeed.Items)
+            {
+                news.Add(item.Title.Text + " - " + item.PublishDate.ToString() + " Retail Detail");
+            }
+            return news;
+
+        }
+
         public List<string> MynetGetAllNewsTitle()
         {
             List<string> newsTitle = new List<string>();
@@ -27,9 +102,26 @@ namespace Business.Concretes
             return newsTitle;
         }
 
-        public string MynetNewsTitleSearch(string key)
+        
+        public List<string> NewYorkGetNews()
         {
-            var getAllNews = MynetGetAllNewsTitle();
+            List<string> news = new List<string>();
+            SyndicationFeed syndicationFeed = new SyndicationFeed();
+            string APIURL = "https://rss.nytimes.com/services/xml/rss/nyt/World.xml";
+            using (var reader = XmlReader.Create(APIURL))
+            {
+                syndicationFeed = SyndicationFeed.Load(reader);
+            }
+            foreach (SyndicationItem item in syndicationFeed.Items)
+            {
+                news.Add(item.Title.Text + " - " + item.PublishDate.ToString() + " New York Times");
+            }
+            return news;
+        }
+
+        public string NewYorkTimesNewsTitleSearch(string key)
+        {
+            var getAllNews = NewYorkGetNews();
             var matchingNews = getAllNews.Where(n => n.Contains(key));
             var value = "";
             foreach (var item in matchingNews)
@@ -37,89 +129,6 @@ namespace Business.Concretes
                 value = item;
             }
             return value;
-        }
-
-       
-        public List<string> NewYorkGetNews()
-        {
-            SyndicationFeed syndicationFeed = new SyndicationFeed();
-            List<string> news = new List<string>();
-
-            string APIURL = "https://rss.nytimes.com/services/xml/rss/nyt/World.xml";
-
-
-            using (var reader = XmlReader.Create(APIURL))
-            {
-                syndicationFeed = SyndicationFeed.Load(reader);
-            }
-            foreach (SyndicationItem item in syndicationFeed.Items)
-            {
-                news.Add(item.Title.Text + " - " + item.PublishDate.ToString() + " FeedBurner");
-            }
-
-            return news;
-        }
-
-        public List<string> GetAllFeedburnerNews()
-        {
-            List<string> news = new List<string>();
-            SyndicationFeed syndicationFeed = new SyndicationFeed();
-            string APIURL = "http://feeds.feedburner.com/retaildetailbe";
-
-            using (var reader = XmlReader.Create(APIURL))
-            {
-                syndicationFeed = SyndicationFeed.Load(reader);
-            }
-            foreach (SyndicationItem item in syndicationFeed.Items)
-            {
-                news.Add(item.Title.Text + " - " + item.PublishDate.ToString() + " FeedBurner");
-            }
-
-            return news;
-        }
-
-        public List<string> GetAllRetaildetailbe()
-        {
-            List<string> news = new List<string>();
-            SyndicationFeed syndicationFeed = new SyndicationFeed();
-
-            string APIURLFeedBurner = "http://feeds.feedburner.com/retaildetailbe";
-            using (var reader = XmlReader.Create(APIURLFeedBurner))
-            {
-                syndicationFeed = SyndicationFeed.Load(reader);
-            }
-            foreach (SyndicationItem item in syndicationFeed.Items)
-            {
-                news.Add(item.Title.Text + " - " + item.PublishDate.ToString() + " Retail Detail");
-            }
-            return news;
-
-        }
-
-        public List<string> GetAllAcrossNews()
-        {
-            List<string> news = new List<string>();
-            SyndicationFeed syndicationFeed = new SyndicationFeed();
-            string APIURLAcross = "https://servicemodule.propertynl.com/api/export/GetRSSArticles?newsChannel=NL&ignoreSticky=true";
-            using (var reader = XmlReader.Create(APIURLAcross))
-            {
-
-                syndicationFeed = SyndicationFeed.Load(reader);
-            }
-            foreach (SyndicationItem item in syndicationFeed.Items)
-            {
-                news.Add(item.Title.Text + " - " + " Across Magazine" + " - " + item.PublishDate.ToString());
-            }
-            return news;
-
-        }
-
-        public void GetAllNews()
-        {
-            NewYorkGetNews();
-            GetAllFeedburnerNews();
-            GetAllRetaildetailbe();
-            GetAllAcrossNews();
         }
     }
 }
